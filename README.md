@@ -1,4 +1,4 @@
-[### ](https://img.freepik.com/premium-photo/meditating-monk-rock-nature-banner_155027-4915.jpg)
+(https://img.freepik.com/premium-photo/meditating-monk-rock-nature-banner_155027-4915.jpg)
 Hi there 👋
 - 🌱 I’m currently learning HTML, CSS & JAVASCRIPT
 <!--
