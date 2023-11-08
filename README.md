@@ -1,5 +1,6 @@
-### Hi there 👋
-
+[### ](https://img.freepik.com/premium-photo/meditating-monk-rock-nature-banner_155027-4915.jpg)
+Hi there 👋
+- 🌱 I’m currently learning HTML, CSS & JAVASCRIPT
 <!--
 **WWittorio/WWittorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
