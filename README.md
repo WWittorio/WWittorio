@@ -3,8 +3,9 @@
 
 <h1 align="center">Hi 👋, I'm Vittorio Genga</h1>
 <h3 align="center">A passionate FrontEnd Developer from Italy</h3>
-<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIG.4bsugYiMaPKKM.QVZvq.?pid=ImgGn&w=1024&h=1024&rs=1">
+<img align="right" alt="Coding" width="400" src="https://github.com/WWittorio/WWittorio/assets/147848036/7ab60f7b-9554-409a-9277-a5470fc60639">
 
+<!-- <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIG.4bsugYiMaPKKM.QVZvq.?pid=ImgGn&w=1024&h=1024&rs=1">  -->
 
 - 🌱 I’m currently learning **HTML, CSS & JAVASCRIPT**
 
